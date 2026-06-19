@@ -27,10 +27,12 @@
 
 ## Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=franklynarmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=franklynarmah&theme=dark&hide_border=false)
+| | | |
+|---|---|---|
+| ![](https://github-readme-stats.shion.dev/api?username=franklynarmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://streak-stats.demolab.com/?user=franklynarmah&theme=dark&hide_border=false) | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=franklynarmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=franklynarmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 </div>
